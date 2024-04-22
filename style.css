@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(52, 205, 118, 0.8);
+}
+
+p, ol{
+    font-size: 20px;
+}
+
+.rmv{
+    height: 100px;
+    width: 400px;
+    background-color: chocolate;
+}
+
+.nav-link{
+    color: rgb(255, 247, 0);
+}
+
+p, h1, ol{
+    color: rgb(255, 232, 232);
+}
